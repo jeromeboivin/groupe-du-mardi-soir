@@ -1,0 +1,62 @@
+{
+  "id": "lovely-day",
+  "title": "Lovely Day",
+  "bpm": 102.23,
+  "sequence": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    5,
+    6,
+    7,
+    9
+  ],
+  "tracks": [
+    {
+      "label": "Intro 1",
+      "url": "samples/01-intro-1.m4a"
+    },
+    {
+      "label": "Intro 2",
+      "url": "samples/02-intro-2.m4a"
+    },
+    {
+      "label": "Verse 1",
+      "url": "samples/03-verse-1.m4a"
+    },
+    {
+      "label": "Bridge 1",
+      "url": "samples/04-bridge-1.m4a"
+    },
+    {
+      "label": "Chorus 1",
+      "url": "samples/05-chorus-1.m4a"
+    },
+    {
+      "label": "Verse 2&3",
+      "url": "samples/06-verse-2-3.m4a"
+    },
+    {
+      "label": "Bridge 2&3",
+      "url": "samples/07-bridge-2-3.m4a"
+    },
+    {
+      "label": "Chorus 2&3",
+      "url": "samples/08-chorus-2-3.m4a"
+    },
+    {
+      "label": "Solos",
+      "url": "samples/09-solos.m4a"
+    },
+    {
+      "label": "Chorus 3 & end",
+      "url": "samples/10-chorus-3-end.m4a"
+    }
+  ]
+}
